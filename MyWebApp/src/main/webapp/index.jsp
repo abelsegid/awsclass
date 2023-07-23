@@ -1,5 +1,8 @@
 <html>
 <body>
-<h2> Maji is ass h!</h2>
+<<<<<<< HEAD
+=======
+<h2>Hello Planet!</h2>
+>>>>>>> 5640eff (cool)
 </body>
 </html>
